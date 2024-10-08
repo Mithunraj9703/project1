@@ -1,4 +1,4 @@
 # new project
 
 Project is created on local machine.
-by mithun kumar
+by mithun kumar.
